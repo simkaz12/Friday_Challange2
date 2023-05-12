@@ -14,7 +14,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://simkaz12.github.io/Friday_Challange2/
 
-Design: [Kalendorius)](https://balticinstitute.sharepoint.com/:u:/s/FULLSTACKONLINE2305029/ER9LFu-OpxJEsv7CfeJP8R0Brd4VginXr0Ggn0J1NxUvUg?e=tE0gtM)
+Design: [Kalendorius](https://balticinstitute.sharepoint.com/:u:/s/FULLSTACKONLINE2305029/ER9LFu-OpxJEsv7CfeJP8R0Brd4VginXr0Ggn0J1NxUvUg?e=tE0gtM)
 
 ## 🎯 Project features/goals
 
